@@ -1,4 +1,10 @@
-## Hi there 👋
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Vo Quoc Bao AI Engineer Banner">
+</p>
+
+---
+
+## Hi, I'm Vo Quoc Bao
 
 <!--
 **BaoVo1126/BaoVo1126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
