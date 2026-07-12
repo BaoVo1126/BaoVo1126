@@ -36,6 +36,7 @@ Most of what I learn comes from building complete pipelines end to end — from 
 ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+
 ---
 
 ## 🚀 Featured Projects
