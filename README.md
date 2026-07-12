@@ -14,12 +14,12 @@ Most of what I learn comes from building complete pipelines end to end — from 
 
 ## 🛠 Tech Stack
 
-### 💻 Programming Languages
+###  Programming Languages:
 ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 
-### 🧠 AI & Data Science
+###  AI & Data Science:
 ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![](https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=langchain&logoColor=white)
@@ -27,12 +27,12 @@ Most of what I learn comes from building complete pipelines end to end — from 
 ![](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-### 🗄️ Databases & Design
+###  Databases & Design:
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Database%20Normalization-0052CC?style=flat-square&logo=databricks&logoColor=white)
 
-### ⚙️ Tools & DevOps
+###  Tools & DevOps:
 ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
