@@ -4,7 +4,7 @@
 
 
 
-# About Me:
+# About Me
 
 I'm a Computer Science student at Ton Duc Thang University (TDTU), Ho Chi Minh City, focused on Artificial Intelligence and Machine Learning, especially on Natural Language Processing such as: RAG, LLM, AI Agents,...
 
