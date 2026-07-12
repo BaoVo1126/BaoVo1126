@@ -23,6 +23,9 @@ Most of what I learn comes from building complete pipelines end to end — from 
 ![](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=langchain&logoColor=white)
 
 ---
 
