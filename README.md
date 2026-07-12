@@ -4,8 +4,6 @@
 
 
 
-![Vo Quoc Bao AI Engineer Banner](banner.png)
-
 # Hi, I'm Vo Quoc Bao 👋
 
 I'm a Computer Science student at Ton Duc Thang University (TDTU), Ho Chi Minh City, focused on Artificial Intelligence and Machine Learning.
