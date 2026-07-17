@@ -68,13 +68,8 @@ Extended 8-Puzzle (BFS/A\*), Sokoban with deadlock pruning, Simulated Annealing,
 
 ---
 
-## 🌱 Currently Exploring
+## Let's connect:
 
-- Machine Learning & applied statistics
-- Classic AI search, planning, and optimization
-- Turning research-style projects into deployable tools
-- Writing clear, HR/technically accessible technical reports
-- Build RAG end-to-end, build AI chatbox 
 
 ---
 
