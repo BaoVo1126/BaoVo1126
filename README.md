@@ -14,45 +14,61 @@ Most of what I learn comes from building complete pipelines end to end — from 
 
 ## 🛠 Tech Stack
 
-###  Programming Languages:
-![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-###  Machine & Deep Learning:
-![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![](https://img.shields.io/badge/TensorFlow_Basic-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-* **Algorithms:** Regression (Linear/Logistic), SVM, KNN, Tree-based Models, XGBoost, K-Means, RNN, LSTM
+### 🤖 AI / Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
 
-###  Natural Language Processing (NLP):
-![](https://img.shields.io/badge/Text_Preprocessing-green?style=flat-square)
-![](https://img.shields.io/badge/Word%2FText_Embedding-purple?style=flat-square)
-![](https://img.shields.io/badge/Transformer_Architecture-red?style=flat-square)
-![](https://img.shields.io/badge/LLMs_Fine--tuning-yellow?style=flat-square)
+**Algorithms**
 
-###  Data Engineering & Databases:
-![](https://img.shields.io/badge/Data_Modeling_(ERD_%2F_Normalization)-0052CC?style=flat-square&logo=databricks&logoColor=white)
-![](https://img.shields.io/badge/ETL%20%2F%20ELT%20Pipeline%20Development-darkblue?style=flat-square)
+`Linear Regression` • `Logistic Regression` • `SVM` • `KNN` • `Decision Tree` • `Random Forest` • `XGBoost` • `K-Means` • `RNN` • `LSTM`
 
-###  Core Math & ML Concepts:
-![](https://img.shields.io/badge/Mathematics_for_ML_&_Math-blue?style=flat-square)
-![](https://img.shields.io/badge/Model_Evaluation-orange?style=flat-square)
-
-###  Tools & Languages:
-![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Docker_Basic-2496ED?style=flat-square&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![](https://img.shields.io/badge/Cursor-black?style=flat-square)
-* **Languages:** English (Professional), Vietnamese (Native)
 ---
 
+### 🧠 Natural Language Processing
 
+- Text Preprocessing
+- Word & Text Embedding
+- Transformer Architecture
+- LLM Fine-tuning
 
-## Thanks for watching
+---
+
+### 🗄 Data Engineering
+
+- Data Modeling (ERD, Normalization)
+- ETL / ELT Pipeline Development
+- SQL Query Optimization
+
+---
+
+### ⚙️ Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
+</p>
+
+---
+
+### 🌍 Languages
+
+- 🇻🇳 Vietnamese — Native
+- 🇬🇧 English — Professional Working Proficiency
 
 ---
 
