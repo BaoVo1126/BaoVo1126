@@ -50,26 +50,9 @@ Most of what I learn comes from building complete pipelines end to end — from 
 * **Languages:** English (Professional), Vietnamese (Native)
 ---
 
-## 🚀 Featured Projects
 
-###  YOLOv11 + BoTSORT Multi-Object Tracking
-Real-time multi-object detection and tracking pipeline built on the MOT17 dataset, combining a YOLOv11 detector with BoTSORT for identity-consistent tracking across frames.
 
-###  Heart Disease Classification (Streamlit App)
-End-to-end medical ML system on the UCI Cleveland dataset — model comparison (Logistic Regression, Random Forest, SVM, KNN) with Recall prioritized over Accuracy, Pearson correlation-based feature selection, and a deployed Streamlit app with two-tier caching and auto-generated insights.
-
-###  Healthcare ML Pipeline
-Modular OOP pipeline for a 55,500-record synthetic healthcare dataset, engineered to prevent data leakage — and used Chi-Square testing to uncover synthetic label noise as a hidden accuracy ceiling.
-
-###  Classic AI Search & Optimization
-Extended 8-Puzzle (BFS/A\*), Sokoban with deadlock pruning, Simulated Annealing, and an infinite Tic-Tac-Toe agent comparing Alpha-Beta Pruning vs. Minimax.
-
-🔗 More projects, write-ups, and the full academic portfolio report: see pinned repositories below.
-
----
-
-## Let's connect:
-
+## Thanks for watching
 
 ---
 
